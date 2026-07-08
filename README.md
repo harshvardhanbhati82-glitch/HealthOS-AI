@@ -131,21 +131,14 @@ HealthOS AI uses AI-assisted workflows to support healthcare administrators by:
 ---
 # 📸 Screenshots
 
-### Login
-![Login Screen](https://raw.githubusercontent.com/harshvardhanbhati82-glitch/HealthOS-AI/main/Screenshot%202026-07-08%20183219.jpg)
-
-### Dashboard
-![Dashboard](https://raw.githubusercontent.com/harshvardhanbhati82-glitch/HealthOS-AI/main/Screenshot%202026-07-08%20183033.jpg)
-
 ### AI Copilot
 ![AI Copilot](https://raw.githubusercontent.com/harshvardhanbhati82-glitch/HealthOS-AI/main/Screenshot%202026-07-08%20183057.png)
-
-### District Map
-![District Map](https://raw.githubusercontent.com/harshvardhanbhati82-glitch/HealthOS-AI/main/Screenshot%202026-07-08%20183112.jpg)
 
 ### Reports
 ![Reports](https://raw.githubusercontent.com/harshvardhanbhati82-glitch/HealthOS-AI/main/Screenshot%202026-07-08%20183128.png)
 
+### Prediction Dashboard
+![Prediction Dashboard](https://raw.githubusercontent.com/harshvardhanbhati82-glitch/HealthOS-AI/main/Screenshot%202026-07-08%20183145.png)
 ### Prediction Dashboard
 ![Prediction Dashboard](https://raw.githubusercontent.com/harshvardhanbhati82-glitch/HealthOS-AI/main/Screenshot%202026-07-08%20183145.png)
 # 📂 Project Structure
