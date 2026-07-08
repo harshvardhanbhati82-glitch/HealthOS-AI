@@ -1,0 +1,1 @@
+- [HealthOS stack & polish decisions](healthos-polish.md) — auth/theme/notifications architecture, dark mode strategy, jsPDF type workaround

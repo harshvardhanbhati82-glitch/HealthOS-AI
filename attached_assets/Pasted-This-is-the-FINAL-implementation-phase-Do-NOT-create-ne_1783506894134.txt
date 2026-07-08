@@ -1,0 +1,85 @@
+This is the FINAL implementation phase.
+
+Do NOT create new pages.
+
+Do NOT redesign the project.
+
+Do NOT rewrite existing functionality.
+
+First inspect the entire repository and identify UI inconsistencies, broken interactions and remaining bugs.
+
+Only improve and polish the existing implementation.
+
+Tasks:
+
+1. Premium UI Polish
+- Make every page visually consistent.
+- Improve spacing, typography, icons and card design.
+- Add subtle hover effects and smooth transitions.
+- Ensure every page feels like a premium enterprise healthcare SaaS.
+
+2. Dark Mode
+- Fix every unreadable text.
+- Fix card backgrounds.
+- Fix tables, charts and forms.
+- Ensure every page looks correct in both Light and Dark mode.
+
+3. Dashboard
+- Add loading skeletons where appropriate.
+- Improve KPI card animations.
+- Smooth page transitions.
+- Make charts resize correctly.
+
+4. AI Copilot
+- Improve chat UI.
+- Better typing animation.
+- Auto scroll to latest message.
+- Better message bubbles.
+- Show timestamps.
+
+5. Reports
+- Improve report layout.
+- Better PDF formatting.
+- Better Excel export formatting.
+- Show success toast after export.
+
+6. Notifications
+- Improve notification drawer UI.
+- Add unread badge animation.
+- Better empty state.
+
+7. Performance
+- Lazy load heavy pages.
+- Remove unnecessary re-renders.
+- Optimize large components.
+- Improve responsiveness.
+
+8. Bug Fixing
+- Fix every TypeScript error.
+- Fix every console warning.
+- Fix broken imports.
+- Fix navigation issues.
+- Verify every sidebar link.
+- Ensure there are no 404 pages.
+
+9. Final QA
+Verify:
+- Login works.
+- Logout works.
+- Profile sync works.
+- Settings persist after refresh.
+- AI Copilot works.
+- District Map works.
+- PHC page works.
+- Reports export works.
+- Predictions page works.
+- Dashboard works correctly.
+
+Finally:
+- Run the application.
+- Run a production build.
+- Fix every error until the build succeeds.
+- Do not stop until the project is stable, polished and demo-ready.
+
+Do not add unnecessary features.
+Focus only on polish, stability and presentation quality.
