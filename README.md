@@ -139,8 +139,7 @@ HealthOS AI uses AI-assisted workflows to support healthcare administrators by:
 
 ### Prediction Dashboard
 ![Prediction Dashboard](https://raw.githubusercontent.com/harshvardhanbhati82-glitch/HealthOS-AI/main/Screenshot%202026-07-08%20183145.png)
-### Prediction Dashboard
-![Prediction Dashboard](https://raw.githubusercontent.com/harshvardhanbhati82-glitch/HealthOS-AI/main/Screenshot%202026-07-08%20183145.png)
+
 # 📂 Project Structure
 
 ```text
