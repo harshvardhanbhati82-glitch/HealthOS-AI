@@ -132,23 +132,22 @@ HealthOS AI uses AI-assisted workflows to support healthcare administrators by:
 # 📸 Screenshots
 
 ### Login
-![Login Screen](Screenshot%202026-07-08%20183219.jpg)
+![Login Screen](./Screenshot%202026-07-08%20183219.jpg)
 
 ### Dashboard
-![Dashboard](Screenshot%202026-07-08%20183033.jpg)
+![Dashboard](./Screenshot%202026-07-08%20183033.jpg)
 
 ### AI Copilot
-![AI Copilot](Screenshot%202026-07-08%20183057.png)
+![AI Copilot](./Screenshot%202026-07-08%20183057.png)
 
 ### District Map
-![District Map](Screenshot%202026-07-08%20183112.jpg)
+![District Map](./Screenshot%202026-07-08%20183112.jpg)
 
 ### Reports
-![Reports](Screenshot%202026-07-08%20183128.png)
+![Reports](./Screenshot%202026-07-08%20183128.png)
 
 ### Prediction Dashboard
-![Prediction Dashboard](Screenshot%202026-07-08%20183145.png)
-
+![Prediction Dashboard](./Screenshot%202026-07-08%20183145.png)
 # 📂 Project Structure
 
 ```text
